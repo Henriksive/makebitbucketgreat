@@ -13,3 +13,13 @@ Lei av å alltid måtte stirre på det samme banneret øverst i BitBucket? Skull
 5. Klikk på "Last inn upakket" og velg .zip-filen du pakket pakket ut i steg 2. ![Screenshot 2022-03-17 at 13 49 40](https://user-images.githubusercontent.com/6715649/158812043-ba4b5750-cbb5-4f07-b6cb-a428e30e7dd0.png)
 6. Sjekk at utvidelsen dukker opp under og skru den på hvis den ikke ble skrudd på.
 7. Naviger til https://git.vegvesen.no/projects
+
+
+
+## Resultat
+Usikker på om det er verdt det? Døm selv:
+![Screenshot 2022-03-17 at 14 00 25](https://user-images.githubusercontent.com/6715649/158816540-a7234aef-46db-40c4-aae6-ea605f71bb12.png)
+
+## Roadmap 2022
+[  ] Dark mode  
+[  ] GitHub-overgang
