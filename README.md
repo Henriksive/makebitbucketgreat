@@ -1,11 +1,10 @@
 # Make versjonskontroll great again
 
-## Wut?
 Lei av å alltid måtte stirre på det samme banneret øverst i BitBucket? Skulle du ønske menylinja hadde samme farge som GitHub? Fortvil ikke!
 ![Screenshot 2022-03-17 at 13 44 45](https://user-images.githubusercontent.com/6715649/158811098-e3d70ab0-e182-4464-821d-ef9b280cd414.png)
 
 
-## How-to
+## Installasjon
 1. Bruk chrome.
 2. Last ned zip av repoet og pakk ut (https://github.com/Henriksive/makebitbucketgreat/archive/refs/heads/main.zip)
 3. Åpne en ny fane og gå til `chrome://extensions/`
