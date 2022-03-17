@@ -1,8 +1,11 @@
-// var item = document.getElementsByClassName(
-//   "status-button approve css-e0xx2c"
-// )[0];
-// item.innerHTML = "Approve pull request";
-
-// item.addEventListener("click", () => {
-//   item.innerHTML = "Click to unapprove";
-// });
+var banner = document.getElementsByClassName("announcement-banner-content")[0];
+if (
+  banner.innerHTML.startsWith("<br>Ta kontakt med") ||
+  banner.innerHTML.startsWith("<p>Ta kontakt med") ||
+  banner.innerHTML.startsWith("Ta kontakt med")
+) {
+  var bannerContainer = document.getElementById(
+    "bitbucket-announcement-banner"
+  );
+  bannerContainer.style.display = "none";
+}
