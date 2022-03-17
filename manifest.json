@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Make shitbucket great again",
+  "version": "0.1.0",
+  "description": "(ง •̀_•́)ง",
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://git.vegvesen.no/*"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["declarativeContent", "webNavigation"]
+}
