@@ -22,5 +22,5 @@ Usikker på om det er verdt det? Døm selv:
 
 ## Roadmap 2022
 [  ] Dark mode  
-[  ] GitHub-overgang
+[  ] GitHub-overgang  
 [  ] Firefox
